@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmanikhil04&show_icons=true&locale=en&count_private=true" alt="sharmanikhil04" /></p>
 
-
+<a href="http://www.github.com/sharmanikhil04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmanikhil04" /></a>
 <!--
 **sharmanikhil04/sharmanikhil04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
